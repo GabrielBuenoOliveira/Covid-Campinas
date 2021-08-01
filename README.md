@@ -14,7 +14,7 @@ const userInfo = {
   nascimento: "2002-07-15",
   nome: "Gabriel"
 }
-const day = '2021-08-03'
+const day = '2021-08-03' // dia da vacinação acredito que hoje so temos 03/08/2021 e 04/08/2021
 
 const heathCenterIds = [10,28,58]
 ```
